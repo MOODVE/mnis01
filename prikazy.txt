@@ -1,0 +1,5 @@
+git branch <nazov_branchu>
+git checkout <nazov_branchu>
+git commit -a -m 'sprava commitu'
+git merge <nazov_branchu>
+git push https://github.com/MOODVE/mnis01.git mastergit 
